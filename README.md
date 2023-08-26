@@ -4,12 +4,6 @@ demo
 
 ## subheader
 
-wordasdf]asdf\asdfsandfs
-f
-s
-dfas
-df
-as
-df
-sadf
-asdfgit
+this is the readme v2
+
+1. open index.html in your browser
